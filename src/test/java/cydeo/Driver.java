@@ -44,7 +44,7 @@ public class Driver {
                         e.printStackTrace();
                     }
                     break;
-    ////some change
+    ////some changes
                 case "remote-firefox":
 
                     try {
